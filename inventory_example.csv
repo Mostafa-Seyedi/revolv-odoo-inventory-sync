@@ -1,0 +1,7 @@
+material_sku,quantity_change,location
+FURN_0001,5,WH/Stock
+E-COM06,3,WH/Stock
+FURN_0002,2,WH/Stock/Shelf 1
+THIS-SKU-DOES-NOT-EXIST,4,WH/Stock
+FURN_0001,abc,WH/Stock
+FURN_0001,1,WH/DOES-NOT-EXIST
